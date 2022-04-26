@@ -2,10 +2,11 @@
 <h3 align="center">github yes😎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scxdn&label=Profile%20views&color=04db00&style=flat" alt="scxdn" /> </p>
-
+<p align="left"> <a href="https://twitter.com/statcounts" target="blank"><img src="https://img.shields.io/twitter/follow/statcounts?label=StatCounts&style=social" alt="statcounts" /></a> </p>
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCLx_71AviKMmR5DsSXpLPqQ?style=social">
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCLx_71AviKMmR5DsSXpLPqQ?style=social">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scxdn" alt="scxdn" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/statcounts" target="blank"><img src="https://img.shields.io/twitter/follow/statcounts?label=StatCounts&style=social" alt="statcounts" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
