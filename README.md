@@ -2,8 +2,7 @@
 <h3 align="center">:3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scxdn&label=Profile%20views&color=04db00&style=flat" alt="scxdn" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scxdn" alt="scxdn" /></a> </p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scxdn)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
