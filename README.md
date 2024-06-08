@@ -1,4 +1,4 @@
-<h1 align="center">fayg on the internet</h1>
+<h1 align="center">fag on the internet</h1>
 <h3 align="center">:3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scxdn&label=profile%20views&color=333333&style=flat" alt="scxdn" /> </p>
